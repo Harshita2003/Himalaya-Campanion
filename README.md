@@ -24,5 +24,3 @@ A mobile-first skincare companion app designed for Himalaya to re-engage Gen Z u
 - Lovable
 - Draw.io
 
-## 📅 Project Timeline
-Developed in February 2025 as part of the Capstone Project Challenge.
